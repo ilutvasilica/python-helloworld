@@ -21,6 +21,6 @@ def main(argv=None):
     # ensures the user hasn't passed any other unrecognized arguments.
     parser.parse_args(argv[1:])
 
-    print("Hello,I am a student and I learn GitHub!")
+    print("New message send directly from GitHub!!")
 
     return 0
